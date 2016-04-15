@@ -2,33 +2,41 @@ Kehinde O. Akiode
 
 64 Gapiona Avenue, GRA, Benin City NG | +234 703 322 8338 | kakiode@gmail.com
 
-SYSTEMS ANALYST
+# SYSTEMS ANALYST
 An experienced systems administrator with several years of experience managing
  Windows client and server environments, as well as having strong programming
- skills. Has experience working with Unix and Linux
+ skills. Has experience working with Unix and Linux, as well as Hyper-V and
+ VMWare ESXi.
 
-Work Experience
-Nigerian Petroleum Development Company (2006-Date)
-Systems Analyst
-Management of corporate datacenter. Duties include Active Directory management,
+## Work Experience
+#### Nigerian Petroleum Development Company (2006-Date)
+- __Systems Analyst__<br/>
+ Management of corporate datacenter. Duties include Active Directory management,
  server provisioning and maintenance, SharePoint content management, end-user
  support for SAP, management of SQL Server databases, support for Technical
  applications (Petrel, OFM) users, Internet bandwidth management, MIS management
+ (BusinessObjects)
 
-Achievements
-Optimization of corporate internet bandwidth usage by deploying proxy servers in
- head office and two branch offices (Squid/Linux)
-Implemented RADIUS/802.1X authentication using Windows NPS/Cisco Wireless Controller
+  Achievements:<br/>
+  - Optimization of corporate internet bandwidth usage by deploying proxy servers in
+  head office and two branch offices (Squid/Linux)
+  - Implemented RADIUS/802.1X authentication using Windows NPS/Cisco Wireless Controller
  for wireless network at head office
-Implemented Knowledgebase Wiki on corporate Intranet (SharePoint)
-Developed and deployed SharePoint webparts on corporate Intranet (for displaying
+  - Implemented Knowledgebase Wiki on corporate Intranet (SharePoint)
+  - Developed and deployed SharePoint webparts on corporate Intranet (for displaying
  staff terminal benefits, another for displaying daily production figures)
-Developed scripts for active directory user management
+  - Developed scripts for active directory user management
 
-Skills
+Previous Positions held:
+
+- __Network Administrator__<br/>
+  Maintenance of corporate LAN, 2nd-level helpdesk support, configuration and
+ deployment of PCs, maintenance of company website.
+
+## Skills
 Windows 2k/7/10/2003/2008 administration, C/Java/Powershell programming,
-HTML/CSS, Linux & OpenBSD administration
+HTML/CSS, Markdown, Linux & OpenBSD administration, MySQL, SQL Server
 
-Education and Training
-MCSP
-BSc. Computer Engineering
+## Education and Training
+- MCSP Windows Server 2008
+- BSc. Computer Engineering (2003), Obafemi Awolowo University, Ile-Ife
