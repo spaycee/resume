@@ -9,14 +9,14 @@ An experienced systems administrator with several years of experience managing
 
 ## Work Experience
 #### Nigerian Petroleum Development Company (2006-Date)
-- __Systems Analyst__<br/>
+- __Systems Analyst__  
  Management of corporate datacenter. Duties include Active Directory management,
  server provisioning and maintenance, Exchange mailbox provisioning and quota
  management, SharePoint content management, end-user support for SAP, management
   of SQL Server databases, support for Technical applications (Petrel, OFM) users,
   Internet bandwidth management, MIS management (BusinessObjects)
 
-  Achievements:<br/>
+  Achievements:  
   - Optimization of corporate internet bandwidth usage by deploying proxy servers in
   head office and two branch offices (Squid/Linux)
   - Implemented RADIUS/802.1X authentication using Windows NPS/Cisco Wireless Controller
@@ -28,20 +28,36 @@ An experienced systems administrator with several years of experience managing
 
 Previous Positions held:
 
-- __Network Administrator__<br/>
+- __Network Administrator__  
   Maintenance of corporate LAN, 2nd-level helpdesk support, configuration and
  deployment of PCs, maintenance of company website.
 
 #### Integrated Data Services Ltd (Sep 2005&ndash;Aug 2006)
-- __Computer Engineer__<br/>
-User support. Installation and configuration of user PCs, helpdesk support,
+- __Computer Engineer (Graduate Trainee)__  
+Installation and configuration of user PCs, software and hardware maintenance,
 development of software tools.
 
-  Achievements:<br/>
+  Achievements:  
+  - Participated in the installation of a LAN in the HR department
   - Developed inventory management tool for the Data Storage Section
 
-#### Power Holding Company of Nigeria (defunct)
-- Computer Analyst
+#### Power Holding Company of Nigeria, Benin Distribution Zone (defunct, Feb&ndash;July 2005)
+- __Systems Analyst__  
+Carried out software and hardware maintenance
+
+  Achievements:
+  - Designed and implemented a Personnel Information Management System
+
+#### Ringim Computer School, Jigawa State Ministry of Science & Technology, Jigawa State (Oct 2003&ndash;Aug 2004)
+- __Lecturer (National Youth Service)__  
+Taught Computer Appreciation courses (Microsoft Office, Internet Use). Also carried out software and hardware maintenance
+
+#### Soft Solutions Ltd (Oct 2002&ndash;Aug 2003, Feb&ndash;Aug 2000)
+- __Software Documenter__  
+Produced online Help Documentation and User Manuals for all software developed by the company. Assisted in software testing.
+
+Previous Positions:
+- Industrial Trainee (Student Industrial Work Experience Scheme)
 
 ## Skills
 Windows 2k/7/10/2003/2008 administration, C/Java/Powershell/C# (in view)/Python (in view)
